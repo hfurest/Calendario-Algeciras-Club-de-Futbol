@@ -1,0 +1,9 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Algeciras CF//Calendario de partidos//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Algeciras CF
+X-WR-CALDESC:Partidos del Algeciras CF
+X-WR-TIMEZONE:Europe/Madrid
+END:VCALENDAR
