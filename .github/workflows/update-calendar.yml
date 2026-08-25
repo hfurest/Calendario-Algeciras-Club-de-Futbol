@@ -34,5 +34,5 @@ jobs:
             echo "Sin cambios en el calendario."
           else
             git commit -m "Actualizar calendario Algeciras CF"
-            git push
+            git push origin HEAD:${{ github.ref_name }}
           fi
