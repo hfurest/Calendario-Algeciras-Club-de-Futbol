@@ -23,7 +23,7 @@ jobs:
           python-version: "3.12"
 
       - name: Validar y actualizar calendario ICS
-        run: python update_calendar.py
+        run: python update_calendar.py --sync
 
       - name: Guardar cambios
         run: |
