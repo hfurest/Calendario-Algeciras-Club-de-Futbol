@@ -29,21 +29,21 @@ END:VEVENT
 BEGIN:VEVENT
 UID:algeciras-cf-2026-27-jornada-3@calendario-algeciras
 DTSTAMP:20260824T080648Z
-DTSTART;VALUE=DATE:20260913
-DTEND;VALUE=DATE:20260914
+DTSTART;TZID=Europe/Madrid:20260911T211500
+DTEND;TZID=Europe/Madrid:20260911T231500
 SUMMARY:Gimnàstic de Tarragona - Algeciras CF
 LOCATION:Estadio por confirmar
-DESCRIPTION:Primera Federación - Grupo 2\\nJornada 3\\nHora pendiente de confirmación oficial
+DESCRIPTION:Primera Federación - Grupo 2\\nJornada 3\\nHorario oficialmente confirmado
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:algeciras-cf-2026-27-jornada-4@calendario-algeciras
 DTSTAMP:20260824T080648Z
-DTSTART;VALUE=DATE:20260920
-DTEND;VALUE=DATE:20260921
+DTSTART;TZID=Europe/Madrid:20260920T120000
+DTEND;TZID=Europe/Madrid:20260920T140000
 SUMMARY:Algeciras CF - Águilas FC
 LOCATION:Estadio Nuevo Mirador\, Algeciras
-DESCRIPTION:Primera Federación - Grupo 2\\nJornada 4\\nHora pendiente de confirmación oficial
+DESCRIPTION:Primera Federación - Grupo 2\\nJornada 4\\nHorario oficialmente confirmado
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
