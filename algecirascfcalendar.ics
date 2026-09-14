@@ -49,31 +49,31 @@ END:VEVENT
 BEGIN:VEVENT
 UID:algeciras-cf-2026-27-jornada-5@calendario-algeciras
 DTSTAMP:20260824T080648Z
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
+DTSTART;TZID=Europe/Madrid:20260926T163000
+DTEND;TZID=Europe/Madrid:20260926T183000
 SUMMARY:Juventud de Torremolinos CF - Algeciras CF
 LOCATION:Estadio por confirmar
-DESCRIPTION:Primera Federación - Grupo 2\\nJornada 5\\nHora pendiente de confirmación oficial
+DESCRIPTION:Primera Federación - Grupo 2\\nJornada 5\\nHorario oficialmente confirmado
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:algeciras-cf-2026-27-jornada-6@calendario-algeciras
 DTSTAMP:20260824T080648Z
-DTSTART;VALUE=DATE:20261004
-DTEND;VALUE=DATE:20261005
+DTSTART;TZID=Europe/Madrid:20261004T184500
+DTEND;TZID=Europe/Madrid:20261004T204500
 SUMMARY:Algeciras CF - CF Rayo Majadahonda
 LOCATION:Estadio Nuevo Mirador\, Algeciras
-DESCRIPTION:Primera Federación - Grupo 2\\nJornada 6\\nHora pendiente de confirmación oficial
+DESCRIPTION:Primera Federación - Grupo 2\\nJornada 6\\nHorario oficialmente confirmado
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:algeciras-cf-2026-27-jornada-7@calendario-algeciras
 DTSTAMP:20260824T080648Z
-DTSTART;VALUE=DATE:20261011
-DTEND;VALUE=DATE:20261012
+DTSTART;TZID=Europe/Madrid:20261011T181500
+DTEND;TZID=Europe/Madrid:20261011T201500
 SUMMARY:CE Europa - Algeciras CF
 LOCATION:Estadio por confirmar
-DESCRIPTION:Primera Federación - Grupo 2\\nJornada 7\\nHora pendiente de confirmación oficial
+DESCRIPTION:Primera Federación - Grupo 2\\nJornada 7\\nHorario oficialmente confirmado
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
