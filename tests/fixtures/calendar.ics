@@ -1,0 +1,389 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Algeciras CF//Calendario de partidos//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Algeciras CF
+X-WR-CALDESC:Partidos del Algeciras CF Primera Federación 2026/27
+X-WR-TIMEZONE:Europe/Madrid
+BEGIN:VEVENT
+UID:algeciras-cf-2026-27-jornada-1@calendario-algeciras
+DTSTAMP:20260824T080648Z
+DTSTART;TZID=Europe/Madrid:20260829T191500
+DTEND;TZID=Europe/Madrid:20260829T211500
+SUMMARY:Algeciras CF - FC Cartagena
+LOCATION:Estadio Nuevo Mirador\, Algeciras
+DESCRIPTION:Primera Federación - Grupo 2\\nJornada 1\\nHorario oficialmente confirmado
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:algeciras-cf-2026-27-jornada-2@calendario-algeciras
+DTSTAMP:20260824T080648Z
+DTSTART;TZID=Europe/Madrid:20260904T190000
+DTEND;TZID=Europe/Madrid:20260904T210000
+SUMMARY:Villarreal CF B - Algeciras CF
+LOCATION:Estadio por confirmar
+DESCRIPTION:Primera Federación - Grupo 2\\nJornada 2\\nHorario oficialmente confirmado
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:algeciras-cf-2026-27-jornada-3@calendario-algeciras
+DTSTAMP:20260824T080648Z
+DTSTART;TZID=Europe/Madrid:20260911T211500
+DTEND;TZID=Europe/Madrid:20260911T231500
+SUMMARY:Gimnàstic de Tarragona - Algeciras CF
+LOCATION:Estadio por confirmar
+DESCRIPTION:Primera Federación - Grupo 2\\nJornada 3\\nHorario oficialmente confirmado
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:algeciras-cf-2026-27-jornada-4@calendario-algeciras
+DTSTAMP:20260824T080648Z
+DTSTART;TZID=Europe/Madrid:20260920T120000
+DTEND;TZID=Europe/Madrid:20260920T140000
+SUMMARY:Algeciras CF - Águilas FC
+LOCATION:Estadio Nuevo Mirador\, Algeciras
+DESCRIPTION:Primera Federación - Grupo 2\\nJornada 4\\nHorario oficialmente confirmado
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:algeciras-cf-2026-27-jornada-5@calendario-algeciras
+DTSTAMP:20260824T080648Z
+DTSTART;TZID=Europe/Madrid:20260926T163000
+DTEND;TZID=Europe/Madrid:20260926T183000
+SUMMARY:Juventud de Torremolinos CF - Algeciras CF
+LOCATION:Estadio por confirmar
+DESCRIPTION:Primera Federación - Grupo 2\\nJornada 5\\nHorario oficialmente confirmado
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:algeciras-cf-2026-27-jornada-6@calendario-algeciras
+DTSTAMP:20260824T080648Z
+DTSTART;TZID=Europe/Madrid:20261004T184500
+DTEND;TZID=Europe/Madrid:20261004T204500
+SUMMARY:Algeciras CF - CF Rayo Majadahonda
+LOCATION:Estadio Nuevo Mirador\, Algeciras
+DESCRIPTION:Primera Federación - Grupo 2\\nJornada 6\\nHorario oficialmente confirmado
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:algeciras-cf-2026-27-jornada-7@calendario-algeciras
+DTSTAMP:20260824T080648Z
+DTSTART;TZID=Europe/Madrid:20261011T181500
+DTEND;TZID=Europe/Madrid:20261011T201500
+SUMMARY:CE Europa - Algeciras CF
+LOCATION:Estadio por confirmar
+DESCRIPTION:Primera Federación - Grupo 2\\nJornada 7\\nHorario oficialmente confirmado
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:algeciras-cf-2026-27-jornada-8@calendario-algeciras
+DTSTAMP:20260824T080648Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:Algeciras CF - Hércules de Alicante CF
+LOCATION:Estadio Nuevo Mirador\, Algeciras
+DESCRIPTION:Primera Federación - Grupo 2\\nJornada 8\\nHora pendiente de confirmación oficial
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:algeciras-cf-2026-27-jornada-9@calendario-algeciras
+DTSTAMP:20260824T080648Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Algeciras CF - Real Madrid Castilla
+LOCATION:Estadio Nuevo Mirador\, Algeciras
+DESCRIPTION:Primera Federación - Grupo 2\\nJornada 9\\nHora pendiente de confirmación oficial
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:algeciras-cf-2026-27-jornada-10@calendario-algeciras
+DTSTAMP:20260824T080648Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Real Jaén CF - Algeciras CF
+LOCATION:Estadio por confirmar
+DESCRIPTION:Primera Federación - Grupo 2\\nJornada 10\\nHora pendiente de confirmación oficial
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:algeciras-cf-2026-27-jornada-11@calendario-algeciras
+DTSTAMP:20260824T080648Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Real Murcia CF - Algeciras CF
+LOCATION:Estadio por confirmar
+DESCRIPTION:Primera Federación - Grupo 2\\nJornada 11\\nHora pendiente de confirmación oficial
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:algeciras-cf-2026-27-jornada-12@calendario-algeciras
+DTSTAMP:20260824T080648Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Algeciras CF - Antequera CF
+LOCATION:Estadio Nuevo Mirador\, Algeciras
+DESCRIPTION:Primera Federación - Grupo 2\\nJornada 12\\nHora pendiente de confirmación oficial
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:algeciras-cf-2026-27-jornada-13@calendario-algeciras
+DTSTAMP:20260824T080648Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:AD Alcorcón - Algeciras CF
+LOCATION:Estadio por confirmar
+DESCRIPTION:Primera Federación - Grupo 2\\nJornada 13\\nHora pendiente de confirmación oficial
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:algeciras-cf-2026-27-jornada-14@calendario-algeciras
+DTSTAMP:20260824T080648Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Algeciras CF - SD Huesca
+LOCATION:Estadio Nuevo Mirador\, Algeciras
+DESCRIPTION:Primera Federación - Grupo 2\\nJornada 14\\nHora pendiente de confirmación oficial
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:algeciras-cf-2026-27-jornada-15@calendario-algeciras
+DTSTAMP:20260824T080648Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:UE Sant Andreu - Algeciras CF
+LOCATION:Estadio por confirmar
+DESCRIPTION:Primera Federación - Grupo 2\\nJornada 15\\nHora pendiente de confirmación oficial
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:algeciras-cf-2026-27-jornada-16@calendario-algeciras
+DTSTAMP:20260824T080648Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:Algeciras CF - CD Teruel
+LOCATION:Estadio Nuevo Mirador\, Algeciras
+DESCRIPTION:Primera Federación - Grupo 2\\nJornada 16\\nHora pendiente de confirmación oficial
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:algeciras-cf-2026-27-jornada-17@calendario-algeciras
+DTSTAMP:20260824T080648Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:Atlético Madrileño - Algeciras CF
+LOCATION:Estadio por confirmar
+DESCRIPTION:Primera Federación - Grupo 2\\nJornada 17\\nHora pendiente de confirmación oficial
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:algeciras-cf-2026-27-jornada-18@calendario-algeciras
+DTSTAMP:20260824T080648Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:Algeciras CF - Real Zaragoza
+LOCATION:Estadio Nuevo Mirador\, Algeciras
+DESCRIPTION:Primera Federación - Grupo 2\\nJornada 18\\nHora pendiente de confirmación oficial
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:algeciras-cf-2026-27-jornada-19@calendario-algeciras
+DTSTAMP:20260824T080648Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:UD Ibiza - Algeciras CF
+LOCATION:Estadio por confirmar
+DESCRIPTION:Primera Federación - Grupo 2\\nJornada 19\\nHora pendiente de confirmación oficial
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:algeciras-cf-2026-27-jornada-20@calendario-algeciras
+DTSTAMP:20260824T080648Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:Real Madrid Castilla - Algeciras CF
+LOCATION:Estadio por confirmar
+DESCRIPTION:Primera Federación - Grupo 2\\nJornada 20\\nHora pendiente de confirmación oficial
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:algeciras-cf-2026-27-jornada-21@calendario-algeciras
+DTSTAMP:20260824T080648Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:Algeciras CF - Gimnàstic de Tarragona
+LOCATION:Estadio Nuevo Mirador\, Algeciras
+DESCRIPTION:Primera Federación - Grupo 2\\nJornada 21\\nHora pendiente de confirmación oficial
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:algeciras-cf-2026-27-jornada-22@calendario-algeciras
+DTSTAMP:20260824T080648Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:Águilas FC - Algeciras CF
+LOCATION:Estadio por confirmar
+DESCRIPTION:Primera Federación - Grupo 2\\nJornada 22\\nHora pendiente de confirmación oficial
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:algeciras-cf-2026-27-jornada-23@calendario-algeciras
+DTSTAMP:20260824T080648Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:Algeciras CF - CE Europa
+LOCATION:Estadio Nuevo Mirador\, Algeciras
+DESCRIPTION:Primera Federación - Grupo 2\\nJornada 23\\nHora pendiente de confirmación oficial
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:algeciras-cf-2026-27-jornada-24@calendario-algeciras
+DTSTAMP:20260824T080648Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:SD Huesca - Algeciras CF
+LOCATION:Estadio por confirmar
+DESCRIPTION:Primera Federación - Grupo 2\\nJornada 24\\nHora pendiente de confirmación oficial
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:algeciras-cf-2026-27-jornada-25@calendario-algeciras
+DTSTAMP:20260824T080648Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:Algeciras CF - Real Murcia CF
+LOCATION:Estadio Nuevo Mirador\, Algeciras
+DESCRIPTION:Primera Federación - Grupo 2\\nJornada 25\\nHora pendiente de confirmación oficial
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:algeciras-cf-2026-27-jornada-26@calendario-algeciras
+DTSTAMP:20260824T080648Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:Antequera CF - Algeciras CF
+LOCATION:Estadio por confirmar
+DESCRIPTION:Primera Federación - Grupo 2\\nJornada 26\\nHora pendiente de confirmación oficial
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:algeciras-cf-2026-27-jornada-27@calendario-algeciras
+DTSTAMP:20260824T080648Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:Algeciras CF - Real Jaén CF
+LOCATION:Estadio Nuevo Mirador\, Algeciras
+DESCRIPTION:Primera Federación - Grupo 2\\nJornada 27\\nHora pendiente de confirmación oficial
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:algeciras-cf-2026-27-jornada-28@calendario-algeciras
+DTSTAMP:20260824T080648Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:Algeciras CF - Atlético Madrileño
+LOCATION:Estadio Nuevo Mirador\, Algeciras
+DESCRIPTION:Primera Federación - Grupo 2\\nJornada 28\\nHora pendiente de confirmación oficial
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:algeciras-cf-2026-27-jornada-29@calendario-algeciras
+DTSTAMP:20260824T080648Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:CF Rayo Majadahonda - Algeciras CF
+LOCATION:Estadio por confirmar
+DESCRIPTION:Primera Federación - Grupo 2\\nJornada 29\\nHora pendiente de confirmación oficial
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:algeciras-cf-2026-27-jornada-30@calendario-algeciras
+DTSTAMP:20260824T080648Z
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+SUMMARY:Algeciras CF - Juventud de Torremolinos CF
+LOCATION:Estadio Nuevo Mirador\, Algeciras
+DESCRIPTION:Primera Federación - Grupo 2\\nJornada 30\\nHora pendiente de confirmación oficial
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:algeciras-cf-2026-27-jornada-31@calendario-algeciras
+DTSTAMP:20260824T080648Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:Hércules de Alicante CF - Algeciras CF
+LOCATION:Estadio por confirmar
+DESCRIPTION:Primera Federación - Grupo 2\\nJornada 31\\nHora pendiente de confirmación oficial
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:algeciras-cf-2026-27-jornada-32@calendario-algeciras
+DTSTAMP:20260824T080648Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:Algeciras CF - UD Ibiza
+LOCATION:Estadio Nuevo Mirador\, Algeciras
+DESCRIPTION:Primera Federación - Grupo 2\\nJornada 32\\nHora pendiente de confirmación oficial
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:algeciras-cf-2026-27-jornada-33@calendario-algeciras
+DTSTAMP:20260824T080648Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:CD Teruel - Algeciras CF
+LOCATION:Estadio por confirmar
+DESCRIPTION:Primera Federación - Grupo 2\\nJornada 33\\nHora pendiente de confirmación oficial
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:algeciras-cf-2026-27-jornada-34@calendario-algeciras
+DTSTAMP:20260824T080648Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:Algeciras CF - Villarreal CF B
+LOCATION:Estadio Nuevo Mirador\, Algeciras
+DESCRIPTION:Primera Federación - Grupo 2\\nJornada 34\\nHora pendiente de confirmación oficial
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:algeciras-cf-2026-27-jornada-35@calendario-algeciras
+DTSTAMP:20260824T080648Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:FC Cartagena - Algeciras CF
+LOCATION:Estadio por confirmar
+DESCRIPTION:Primera Federación - Grupo 2\\nJornada 35\\nHora pendiente de confirmación oficial
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:algeciras-cf-2026-27-jornada-36@calendario-algeciras
+DTSTAMP:20260824T080648Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:Algeciras CF - UE Sant Andreu
+LOCATION:Estadio Nuevo Mirador\, Algeciras
+DESCRIPTION:Primera Federación - Grupo 2\\nJornada 36\\nHora pendiente de confirmación oficial
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:algeciras-cf-2026-27-jornada-37@calendario-algeciras
+DTSTAMP:20260824T080648Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:Real Zaragoza - Algeciras CF
+LOCATION:Estadio por confirmar
+DESCRIPTION:Primera Federación - Grupo 2\\nJornada 37\\nHora pendiente de confirmación oficial
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:algeciras-cf-2026-27-jornada-38@calendario-algeciras
+DTSTAMP:20260824T080648Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:Algeciras CF - AD Alcorcón
+LOCATION:Estadio Nuevo Mirador\, Algeciras
+DESCRIPTION:Primera Federación - Grupo 2\\nJornada 38\\nHora pendiente de confirmación oficial
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

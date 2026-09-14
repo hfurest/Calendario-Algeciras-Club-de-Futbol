@@ -9,43 +9,271 @@
     "notes": "La fecha corresponde al calendario base de la jornada. La hora solo se introduce cuando está oficialmente confirmada."
   },
   "matches": [
-    {"jornada": 1, "date": "2026-08-29", "home": "Algeciras CF", "away": "FC Cartagena", "time": "19:15"},
-    {"jornada": 2, "date": "2026-09-04", "home": "Villarreal CF B", "away": "Algeciras CF", "time": "19:00"},
-    {"jornada": 3, "date": "2026-09-13", "home": "Gimnàstic de Tarragona", "away": "Algeciras CF", "time": null},
-    {"jornada": 4, "date": "2026-09-20", "home": "Algeciras CF", "away": "Águilas FC", "time": null},
-    {"jornada": 5, "date": "2026-09-27", "home": "Juventud de Torremolinos CF", "away": "Algeciras CF", "time": null},
-    {"jornada": 6, "date": "2026-10-04", "home": "Algeciras CF", "away": "CF Rayo Majadahonda", "time": null},
-    {"jornada": 7, "date": "2026-10-11", "home": "CE Europa", "away": "Algeciras CF", "time": null},
-    {"jornada": 8, "date": "2026-10-18", "home": "Algeciras CF", "away": "Hércules de Alicante CF", "time": null},
-    {"jornada": 9, "date": "2026-10-25", "home": "Algeciras CF", "away": "Real Madrid Castilla", "time": null},
-    {"jornada": 10, "date": "2026-11-01", "home": "Real Jaén CF", "away": "Algeciras CF", "time": null},
-    {"jornada": 11, "date": "2026-11-08", "home": "Real Murcia CF", "away": "Algeciras CF", "time": null},
-    {"jornada": 12, "date": "2026-11-15", "home": "Algeciras CF", "away": "Antequera CF", "time": null},
-    {"jornada": 13, "date": "2026-11-22", "home": "AD Alcorcón", "away": "Algeciras CF", "time": null},
-    {"jornada": 14, "date": "2026-11-29", "home": "Algeciras CF", "away": "SD Huesca", "time": null},
-    {"jornada": 15, "date": "2026-12-06", "home": "UE Sant Andreu", "away": "Algeciras CF", "time": null},
-    {"jornada": 16, "date": "2026-12-13", "home": "Algeciras CF", "away": "CD Teruel", "time": null},
-    {"jornada": 17, "date": "2026-12-20", "home": "Atlético Madrileño", "away": "Algeciras CF", "time": null},
-    {"jornada": 18, "date": "2027-01-03", "home": "Algeciras CF", "away": "Real Zaragoza", "time": null},
-    {"jornada": 19, "date": "2027-01-10", "home": "UD Ibiza", "away": "Algeciras CF", "time": null},
-    {"jornada": 20, "date": "2027-01-17", "home": "Real Madrid Castilla", "away": "Algeciras CF", "time": null},
-    {"jornada": 21, "date": "2027-01-24", "home": "Algeciras CF", "away": "Gimnàstic de Tarragona", "time": null},
-    {"jornada": 22, "date": "2027-01-31", "home": "Águilas FC", "away": "Algeciras CF", "time": null},
-    {"jornada": 23, "date": "2027-02-07", "home": "Algeciras CF", "away": "CE Europa", "time": null},
-    {"jornada": 24, "date": "2027-02-14", "home": "SD Huesca", "away": "Algeciras CF", "time": null},
-    {"jornada": 25, "date": "2027-02-21", "home": "Algeciras CF", "away": "Real Murcia CF", "time": null},
-    {"jornada": 26, "date": "2027-02-28", "home": "Antequera CF", "away": "Algeciras CF", "time": null},
-    {"jornada": 27, "date": "2027-03-07", "home": "Algeciras CF", "away": "Real Jaén CF", "time": null},
-    {"jornada": 28, "date": "2027-03-14", "home": "Algeciras CF", "away": "Atlético Madrileño", "time": null},
-    {"jornada": 29, "date": "2027-03-21", "home": "CF Rayo Majadahonda", "away": "Algeciras CF", "time": null},
-    {"jornada": 30, "date": "2027-03-28", "home": "Algeciras CF", "away": "Juventud de Torremolinos CF", "time": null},
-    {"jornada": 31, "date": "2027-04-04", "home": "Hércules de Alicante CF", "away": "Algeciras CF", "time": null},
-    {"jornada": 32, "date": "2027-04-11", "home": "Algeciras CF", "away": "UD Ibiza", "time": null},
-    {"jornada": 33, "date": "2027-04-18", "home": "CD Teruel", "away": "Algeciras CF", "time": null},
-    {"jornada": 34, "date": "2027-04-25", "home": "Algeciras CF", "away": "Villarreal CF B", "time": null},
-    {"jornada": 35, "date": "2027-05-02", "home": "FC Cartagena", "away": "Algeciras CF", "time": null},
-    {"jornada": 36, "date": "2027-05-09", "home": "Algeciras CF", "away": "UE Sant Andreu", "time": null},
-    {"jornada": 37, "date": "2027-05-16", "home": "Real Zaragoza", "away": "Algeciras CF", "time": null},
-    {"jornada": 38, "date": "2027-05-23", "home": "Algeciras CF", "away": "AD Alcorcón", "time": null}
+    {
+      "jornada": 1,
+      "date": "2026-08-29",
+      "home": "Algeciras CF",
+      "away": "FC Cartagena",
+      "time": "19:15"
+    },
+    {
+      "jornada": 2,
+      "date": "2026-09-04",
+      "home": "Villarreal CF B",
+      "away": "Algeciras CF",
+      "time": "19:00"
+    },
+    {
+      "jornada": 3,
+      "date": "2026-09-11",
+      "home": "Gimnàstic de Tarragona",
+      "away": "Algeciras CF",
+      "time": "21:15"
+    },
+    {
+      "jornada": 4,
+      "date": "2026-09-20",
+      "home": "Algeciras CF",
+      "away": "Águilas FC",
+      "time": "12:00"
+    },
+    {
+      "jornada": 5,
+      "date": "2026-09-26",
+      "home": "Juventud de Torremolinos CF",
+      "away": "Algeciras CF",
+      "time": "16:30"
+    },
+    {
+      "jornada": 6,
+      "date": "2026-10-04",
+      "home": "Algeciras CF",
+      "away": "CF Rayo Majadahonda",
+      "time": "18:45"
+    },
+    {
+      "jornada": 7,
+      "date": "2026-10-11",
+      "home": "CE Europa",
+      "away": "Algeciras CF",
+      "time": "18:15"
+    },
+    {
+      "jornada": 8,
+      "date": "2026-10-18",
+      "home": "Algeciras CF",
+      "away": "Hércules de Alicante CF",
+      "time": null
+    },
+    {
+      "jornada": 9,
+      "date": "2026-10-25",
+      "home": "Algeciras CF",
+      "away": "Real Madrid Castilla",
+      "time": null
+    },
+    {
+      "jornada": 10,
+      "date": "2026-11-01",
+      "home": "Real Jaén CF",
+      "away": "Algeciras CF",
+      "time": null
+    },
+    {
+      "jornada": 11,
+      "date": "2026-11-08",
+      "home": "Real Murcia CF",
+      "away": "Algeciras CF",
+      "time": null
+    },
+    {
+      "jornada": 12,
+      "date": "2026-11-15",
+      "home": "Algeciras CF",
+      "away": "Antequera CF",
+      "time": null
+    },
+    {
+      "jornada": 13,
+      "date": "2026-11-22",
+      "home": "AD Alcorcón",
+      "away": "Algeciras CF",
+      "time": null
+    },
+    {
+      "jornada": 14,
+      "date": "2026-11-29",
+      "home": "Algeciras CF",
+      "away": "SD Huesca",
+      "time": null
+    },
+    {
+      "jornada": 15,
+      "date": "2026-12-06",
+      "home": "UE Sant Andreu",
+      "away": "Algeciras CF",
+      "time": null
+    },
+    {
+      "jornada": 16,
+      "date": "2026-12-13",
+      "home": "Algeciras CF",
+      "away": "CD Teruel",
+      "time": null
+    },
+    {
+      "jornada": 17,
+      "date": "2026-12-20",
+      "home": "Atlético Madrileño",
+      "away": "Algeciras CF",
+      "time": null
+    },
+    {
+      "jornada": 18,
+      "date": "2027-01-03",
+      "home": "Algeciras CF",
+      "away": "Real Zaragoza",
+      "time": null
+    },
+    {
+      "jornada": 19,
+      "date": "2027-01-10",
+      "home": "UD Ibiza",
+      "away": "Algeciras CF",
+      "time": null
+    },
+    {
+      "jornada": 20,
+      "date": "2027-01-17",
+      "home": "Real Madrid Castilla",
+      "away": "Algeciras CF",
+      "time": null
+    },
+    {
+      "jornada": 21,
+      "date": "2027-01-24",
+      "home": "Algeciras CF",
+      "away": "Gimnàstic de Tarragona",
+      "time": null
+    },
+    {
+      "jornada": 22,
+      "date": "2027-01-31",
+      "home": "Águilas FC",
+      "away": "Algeciras CF",
+      "time": null
+    },
+    {
+      "jornada": 23,
+      "date": "2027-02-07",
+      "home": "Algeciras CF",
+      "away": "CE Europa",
+      "time": null
+    },
+    {
+      "jornada": 24,
+      "date": "2027-02-14",
+      "home": "SD Huesca",
+      "away": "Algeciras CF",
+      "time": null
+    },
+    {
+      "jornada": 25,
+      "date": "2027-02-21",
+      "home": "Algeciras CF",
+      "away": "Real Murcia CF",
+      "time": null
+    },
+    {
+      "jornada": 26,
+      "date": "2027-02-28",
+      "home": "Antequera CF",
+      "away": "Algeciras CF",
+      "time": null
+    },
+    {
+      "jornada": 27,
+      "date": "2027-03-07",
+      "home": "Algeciras CF",
+      "away": "Real Jaén CF",
+      "time": null
+    },
+    {
+      "jornada": 28,
+      "date": "2027-03-14",
+      "home": "Algeciras CF",
+      "away": "Atlético Madrileño",
+      "time": null
+    },
+    {
+      "jornada": 29,
+      "date": "2027-03-21",
+      "home": "CF Rayo Majadahonda",
+      "away": "Algeciras CF",
+      "time": null
+    },
+    {
+      "jornada": 30,
+      "date": "2027-03-28",
+      "home": "Algeciras CF",
+      "away": "Juventud de Torremolinos CF",
+      "time": null
+    },
+    {
+      "jornada": 31,
+      "date": "2027-04-04",
+      "home": "Hércules de Alicante CF",
+      "away": "Algeciras CF",
+      "time": null
+    },
+    {
+      "jornada": 32,
+      "date": "2027-04-11",
+      "home": "Algeciras CF",
+      "away": "UD Ibiza",
+      "time": null
+    },
+    {
+      "jornada": 33,
+      "date": "2027-04-18",
+      "home": "CD Teruel",
+      "away": "Algeciras CF",
+      "time": null
+    },
+    {
+      "jornada": 34,
+      "date": "2027-04-25",
+      "home": "Algeciras CF",
+      "away": "Villarreal CF B",
+      "time": null
+    },
+    {
+      "jornada": 35,
+      "date": "2027-05-02",
+      "home": "FC Cartagena",
+      "away": "Algeciras CF",
+      "time": null
+    },
+    {
+      "jornada": 36,
+      "date": "2027-05-09",
+      "home": "Algeciras CF",
+      "away": "UE Sant Andreu",
+      "time": null
+    },
+    {
+      "jornada": 37,
+      "date": "2027-05-16",
+      "home": "Real Zaragoza",
+      "away": "Algeciras CF",
+      "time": null
+    },
+    {
+      "jornada": 38,
+      "date": "2027-05-23",
+      "home": "Algeciras CF",
+      "away": "AD Alcorcón",
+      "time": null
+    }
   ]
 }

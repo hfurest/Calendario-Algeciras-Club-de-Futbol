@@ -2,17 +2,50 @@ name: Actualizar calendario Algeciras CF
 
 "on":
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - update_calendar.py
+      - tests/**
+      - .github/workflows/update-calendar.yml
+  pull_request:
+    paths:
+      - update_calendar.py
+      - tests/**
+      - .github/workflows/update-calendar.yml
   schedule:
-    - cron: "15 7 * * 1"
-      timezone: "Europe/Madrid"
+    # UTC: 08:15 en invierno / 09:15 en verano en Madrid.
+    - cron: "15 7 * * *"
 
 permissions:
-  contents: write
+  contents: read
+
+concurrency:
+  group: calendario-${{ github.ref }}
+  cancel-in-progress: false
 
 jobs:
-  update-calendar:
+  test:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Pruebas de regresión sin red
+        run: python -m unittest discover -s tests -v
+      - name: Probar ambas fuentes desde GitHub Actions
+        if: github.event_name == 'push' || github.event_name == 'workflow_dispatch'
+        run: python tests/live_sources.py
 
+  update-calendar:
+    needs: test
+    if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
     steps:
       - name: Descargar repositorio
         uses: actions/checkout@v4
@@ -23,16 +56,29 @@ jobs:
           python-version: "3.12"
 
       - name: Validar y actualizar calendario ICS
-        run: python update_calendar.py --sync
+        shell: bash
+        run: |
+          set -euo pipefail
+          python update_calendar.py --sync | tee "$RUNNER_TEMP/calendar-report.txt"
+          cat "$RUNNER_TEMP/calendar-report.txt" >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Comprobar que regenerar no altera datos ni DTSTAMP
+        shell: bash
+        run: |
+          set -euo pipefail
+          sha256sum matches.json algecirascfcalendar.ics > "$RUNNER_TEMP/calendar-before.sha256"
+          python update_calendar.py --check
+          python update_calendar.py
+          sha256sum --check "$RUNNER_TEMP/calendar-before.sha256"
 
       - name: Guardar cambios
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add algecirascfcalendar.ics
+          git add matches.json algecirascfcalendar.ics
           if git diff --cached --quiet; then
             echo "Sin cambios en el calendario."
           else
             git commit -m "Actualizar calendario Algeciras CF"
-            git push origin HEAD:${{ github.ref_name }}
+            git push origin HEAD:main
           fi
