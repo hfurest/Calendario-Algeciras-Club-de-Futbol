@@ -104,6 +104,18 @@ class CalendarTests(unittest.TestCase):
         rendered = c.render_calendar(text, events, self.data)
         self.assertNotIn('algeciras-cf-', rendered)
 
+    def test_repaired_revision_is_stable_and_next_change_increments_it(self):
+        block = self.events[6]
+        repaired = block.replace('END:VEVENT', 'SEQUENCE:1\nLAST-MODIFIED:20260914T200000Z\nEND:VEVENT')
+        text = self.text.replace(block, repaired)
+        events = c.read_published(text, self.data)
+        self.assertEqual(c.render_calendar(text, events, self.data), text)
+        self.data['matches'][5].update(time='19:00', source='RFEF')
+        updated = c.render_calendar(text, events, self.data)
+        props = c.properties(c.read_published(updated, copy.deepcopy(self.data))[6])
+        self.assertEqual(props['SEQUENCE'], '2')
+        self.assertEqual(props['UID'], c.properties(block)['UID'])
+
     def test_missing_time_never_erases_known_kickoff(self):
         old = copy.deepcopy(self.data['matches'][5])
         self.rfef[6].update(date='2026-10-05', time=None)

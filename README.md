@@ -44,6 +44,14 @@ un aviso en Actions. No se utiliza SofaScore.
 URL pública del archivo, sin cambios:
 [algecirascfcalendar.ics](https://raw.githubusercontent.com/hfurest/Calendario-Algeciras-Club-de-Futbol/main/algecirascfcalendar.ics).
 
+El 14/09/2026 se repararon también las revisiones históricas de J3–J7: el
+generador anterior había cambiado sus horarios sin aumentar la versión del
+evento. Contrastando las transiciones reales del historial Git, se asignó
+`SEQUENCE:1` y se actualizaron sus marcas de modificación una sola vez, sin
+cambiar los UID ni los horarios. Las siguientes ejecuciones conservan estas
+revisiones y no vuelven a generar cambios. Esta reparación no fuerza una
+consulta inmediata de Google: la recepción debe comprobarse en la suscripción.
+
 ## Cómo verificar una actualización
 
 1. Abre la última ejecución en Actions. El registro debe mostrar `RFEF: 38/38
