@@ -1,0 +1,77 @@
+name: Actualizar calendario Algeciras Cadete B
+
+"on":
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - update_cadete_calendar.py
+      - update_calendar.py
+      - tests/test_cadete.py
+      - tests/fixtures/rfaf_cadete.html
+      - .github/workflows/update-cadete-calendar.yml
+  pull_request:
+    paths:
+      - update_cadete_calendar.py
+      - update_calendar.py
+      - tests/test_cadete.py
+      - tests/fixtures/rfaf_cadete.html
+      - .github/workflows/update-cadete-calendar.yml
+  schedule:
+    # 08:25 en invierno / 09:25 en verano, hora peninsular.
+    - cron: '25 7 * * *'
+
+permissions:
+  contents: read
+
+# Shared with the first-team workflow: never race when committing to main.
+concurrency:
+  group: calendario-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m unittest discover -s tests -v
+
+  update:
+    needs: test
+    if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Consultar RFAF y actualizar las 30 jornadas
+        shell: bash
+        run: |
+          set -euo pipefail
+          python update_cadete_calendar.py | tee "$RUNNER_TEMP/cadete-report.txt"
+          cat "$RUNNER_TEMP/cadete-report.txt" >> "$GITHUB_STEP_SUMMARY"
+      - name: Comprobar que regenerar no provoca cambios
+        shell: bash
+        run: |
+          set -euo pipefail
+          sha256sum cadete_matches.json algecirascadeteb.ics > "$RUNNER_TEMP/cadete.sha256"
+          python update_cadete_calendar.py --offline
+          sha256sum --check "$RUNNER_TEMP/cadete.sha256"
+      - name: Guardar únicamente novedades del Cadete B
+        run: |
+          git add cadete_matches.json algecirascadeteb.ics
+          if git diff --cached --quiet; then
+            echo 'Cadete B: sin cambios.'
+          else
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git commit -m 'Actualizar calendario Algeciras Cadete B'
+            git push origin HEAD:main
+          fi

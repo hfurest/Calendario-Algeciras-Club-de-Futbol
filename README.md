@@ -1,5 +1,8 @@
 # Calendario automático del Algeciras CF
 
+También está disponible el [calendario automático del Cadete B](CADETE-B.md),
+con las 30 jornadas de 2ª Andaluza Cadete de Cádiz.
+
 El calendario mantiene los 38 partidos de Primera Federación, Grupo 2, temporada
 2026/27. GitHub Actions consulta los horarios **cada día a las 07:15 UTC**
 (08:15 en invierno y 09:15 en verano en Madrid). También se puede ejecutar desde

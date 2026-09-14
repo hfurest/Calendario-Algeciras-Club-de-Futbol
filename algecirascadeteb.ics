@@ -1,0 +1,489 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Algeciras Cadete B//Calendario de liga//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Algeciras CF Cadete B
+X-WR-CALDESC:2ª Andaluza Cadete (Cádiz) - Grupo único - 2026/27
+X-WR-TIMEZONE:Europe/Madrid
+BEGIN:VEVENT
+UID:algeciras-cadete-b-2026-27-jornada-1@calendario-algeciras
+DTSTAMP:20260914T200844Z
+LAST-MODIFIED:20260914T200844Z
+SEQUENCE:0
+DTSTART:20260919T073000Z
+DTEND:20260919T093000Z
+SUMMARY:Algeciras CF Cadete B - MONITORES FUTBOL DE ALGECIRAS
+LOCATION:Algeciras - Juan Gadiaga Pastores (F11) (A)
+DESCRIPTION:2ª Andaluza Cadete (Cádiz) - Grupo único\nTemporada 2026/27\
+ nJornada 1\nHorario publicado por RFAF
+URL:https://www.rfaf.es/pnfg/NPcd/NFG_VisCalendario_Vis?cod_primaria=100012
+ 0&codcompeticion=48909282&codgrupo=48909312&codtemporada=22&CDetalle=1
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:algeciras-cadete-b-2026-27-jornada-2@calendario-algeciras
+DTSTAMP:20260914T200844Z
+LAST-MODIFIED:20260914T200844Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:XEREZ DEPORTIVO F.C. - Algeciras CF Cadete B
+LOCATION:Jerez De La Frontera - LA GRANJA CENTRO DE DEPORTES (F11\, 1) (A)
+DESCRIPTION:2ª Andaluza Cadete (Cádiz) - Grupo único\nTemporada 2026/27\
+ nJornada 2\nFecha base de jornada\; hora pendiente de confirmación por RF
+ AF
+URL:https://www.rfaf.es/pnfg/NPcd/NFG_VisCalendario_Vis?cod_primaria=100012
+ 0&codcompeticion=48909282&codgrupo=48909312&codtemporada=22&CDetalle=1
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:algeciras-cadete-b-2026-27-jornada-3@calendario-algeciras
+DTSTAMP:20260914T200844Z
+LAST-MODIFIED:20260914T200844Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Algeciras CF Cadete B - A.D. LOS CORTIJILLOS
+LOCATION:Algeciras - Juan Gadiaga Pastores (F11) (A)
+DESCRIPTION:2ª Andaluza Cadete (Cádiz) - Grupo único\nTemporada 2026/27\
+ nJornada 3\nFecha base de jornada\; hora pendiente de confirmación por RF
+ AF
+URL:https://www.rfaf.es/pnfg/NPcd/NFG_VisCalendario_Vis?cod_primaria=100012
+ 0&codcompeticion=48909282&codgrupo=48909312&codtemporada=22&CDetalle=1
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:algeciras-cadete-b-2026-27-jornada-4@calendario-algeciras
+DTSTAMP:20260914T200844Z
+LAST-MODIFIED:20260914T200844Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:TRASMALLO F.C. C.D. - Algeciras CF Cadete B
+LOCATION:Puerto De Santa María (El) - CIUDAD DEPORTIVA RAFAEL SANCHEZ (F11
+ -F7\,1) (A)
+DESCRIPTION:2ª Andaluza Cadete (Cádiz) - Grupo único\nTemporada 2026/27\
+ nJornada 4\nFecha base de jornada\; hora pendiente de confirmación por RF
+ AF
+URL:https://www.rfaf.es/pnfg/NPcd/NFG_VisCalendario_Vis?cod_primaria=100012
+ 0&codcompeticion=48909282&codgrupo=48909312&codtemporada=22&CDetalle=1
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:algeciras-cadete-b-2026-27-jornada-5@calendario-algeciras
+DTSTAMP:20260914T200844Z
+LAST-MODIFIED:20260914T200844Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Algeciras CF Cadete B - C.F. SAN JOSE OBRERO
+LOCATION:Algeciras - Juan Gadiaga Pastores (F11) (A)
+DESCRIPTION:2ª Andaluza Cadete (Cádiz) - Grupo único\nTemporada 2026/27\
+ nJornada 5\nFecha base de jornada\; hora pendiente de confirmación por RF
+ AF
+URL:https://www.rfaf.es/pnfg/NPcd/NFG_VisCalendario_Vis?cod_primaria=100012
+ 0&codcompeticion=48909282&codgrupo=48909312&codtemporada=22&CDetalle=1
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:algeciras-cadete-b-2026-27-jornada-6@calendario-algeciras
+DTSTAMP:20260914T200844Z
+LAST-MODIFIED:20260914T200844Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:C.D. LA SALLE - Algeciras CF Cadete B
+LOCATION:Puerto Real - VIRGEN DEL CARMEN (T)
+DESCRIPTION:2ª Andaluza Cadete (Cádiz) - Grupo único\nTemporada 2026/27\
+ nJornada 6\nFecha base de jornada\; hora pendiente de confirmación por RF
+ AF
+URL:https://www.rfaf.es/pnfg/NPcd/NFG_VisCalendario_Vis?cod_primaria=100012
+ 0&codcompeticion=48909282&codgrupo=48909312&codtemporada=22&CDetalle=1
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:algeciras-cadete-b-2026-27-jornada-7@calendario-algeciras
+DTSTAMP:20260914T200844Z
+LAST-MODIFIED:20260914T200844Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Algeciras CF Cadete B - CD ATLETICO PASTORES ALGECIRAS
+LOCATION:Algeciras - Juan Gadiaga Pastores (F11) (A)
+DESCRIPTION:2ª Andaluza Cadete (Cádiz) - Grupo único\nTemporada 2026/27\
+ nJornada 7\nFecha base de jornada\; hora pendiente de confirmación por RF
+ AF
+URL:https://www.rfaf.es/pnfg/NPcd/NFG_VisCalendario_Vis?cod_primaria=100012
+ 0&codcompeticion=48909282&codgrupo=48909312&codtemporada=22&CDetalle=1
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:algeciras-cadete-b-2026-27-jornada-8@calendario-algeciras
+DTSTAMP:20260914T200844Z
+LAST-MODIFIED:20260914T200844Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:ARCOS C.F. - Algeciras CF Cadete B
+LOCATION:Arcos De La Frontera - ANTONIO CAMACHO (F11-F7) (A)
+DESCRIPTION:2ª Andaluza Cadete (Cádiz) - Grupo único\nTemporada 2026/27\
+ nJornada 8\nFecha base de jornada\; hora pendiente de confirmación por RF
+ AF
+URL:https://www.rfaf.es/pnfg/NPcd/NFG_VisCalendario_Vis?cod_primaria=100012
+ 0&codcompeticion=48909282&codgrupo=48909312&codtemporada=22&CDetalle=1
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:algeciras-cadete-b-2026-27-jornada-9@calendario-algeciras
+DTSTAMP:20260914T200844Z
+LAST-MODIFIED:20260914T200844Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Algeciras CF Cadete B - ATLETICO ZABAL
+LOCATION:Algeciras - Juan Gadiaga Pastores (F11) (A)
+DESCRIPTION:2ª Andaluza Cadete (Cádiz) - Grupo único\nTemporada 2026/27\
+ nJornada 9\nFecha base de jornada\; hora pendiente de confirmación por RF
+ AF
+URL:https://www.rfaf.es/pnfg/NPcd/NFG_VisCalendario_Vis?cod_primaria=100012
+ 0&codcompeticion=48909282&codgrupo=48909312&codtemporada=22&CDetalle=1
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:algeciras-cadete-b-2026-27-jornada-10@calendario-algeciras
+DTSTAMP:20260914T200844Z
+LAST-MODIFIED:20260914T200844Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:C.D. CADISTA DE LA ISLA - Algeciras CF Cadete B
+LOCATION:San Fernando - MANUEL GOMEZ CASTRO Nº 1 (F11-F7\,1) (A)
+DESCRIPTION:2ª Andaluza Cadete (Cádiz) - Grupo único\nTemporada 2026/27\
+ nJornada 10\nFecha base de jornada\; hora pendiente de confirmación por R
+ FAF
+URL:https://www.rfaf.es/pnfg/NPcd/NFG_VisCalendario_Vis?cod_primaria=100012
+ 0&codcompeticion=48909282&codgrupo=48909312&codtemporada=22&CDetalle=1
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:algeciras-cadete-b-2026-27-jornada-11@calendario-algeciras
+DTSTAMP:20260914T200844Z
+LAST-MODIFIED:20260914T200844Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:C.D. SAN FERNANDO 1940 - Algeciras CF Cadete B
+LOCATION:San Fernando - BAZAN CAMPO MUNICIPAL (F11-F7) (A)
+DESCRIPTION:2ª Andaluza Cadete (Cádiz) - Grupo único\nTemporada 2026/27\
+ nJornada 11\nFecha base de jornada\; hora pendiente de confirmación por R
+ FAF
+URL:https://www.rfaf.es/pnfg/NPcd/NFG_VisCalendario_Vis?cod_primaria=100012
+ 0&codcompeticion=48909282&codgrupo=48909312&codtemporada=22&CDetalle=1
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:algeciras-cadete-b-2026-27-jornada-12@calendario-algeciras
+DTSTAMP:20260914T200844Z
+LAST-MODIFIED:20260914T200844Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Algeciras CF Cadete B - A.D. MARIANISTAS C.D.
+LOCATION:Algeciras - Juan Gadiaga Pastores (F11) (A)
+DESCRIPTION:2ª Andaluza Cadete (Cádiz) - Grupo único\nTemporada 2026/27\
+ nJornada 12\nFecha base de jornada\; hora pendiente de confirmación por R
+ FAF
+URL:https://www.rfaf.es/pnfg/NPcd/NFG_VisCalendario_Vis?cod_primaria=100012
+ 0&codcompeticion=48909282&codgrupo=48909312&codtemporada=22&CDetalle=1
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:algeciras-cadete-b-2026-27-jornada-13@calendario-algeciras
+DTSTAMP:20260914T200844Z
+LAST-MODIFIED:20260914T200844Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:ATCO. SANLUQUEÑO C.F. - Algeciras CF Cadete B
+LOCATION:Sanlúcar de Barrameda - LAS PALMERAS (F11-F7) (A)
+DESCRIPTION:2ª Andaluza Cadete (Cádiz) - Grupo único\nTemporada 2026/27\
+ nJornada 13\nFecha base de jornada\; hora pendiente de confirmación por R
+ FAF
+URL:https://www.rfaf.es/pnfg/NPcd/NFG_VisCalendario_Vis?cod_primaria=100012
+ 0&codcompeticion=48909282&codgrupo=48909312&codtemporada=22&CDetalle=1
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:algeciras-cadete-b-2026-27-jornada-14@calendario-algeciras
+DTSTAMP:20260914T200844Z
+LAST-MODIFIED:20260914T200844Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:Algeciras CF Cadete B - CHICLANA C.F.
+LOCATION:Algeciras - Juan Gadiaga Pastores (F11) (A)
+DESCRIPTION:2ª Andaluza Cadete (Cádiz) - Grupo único\nTemporada 2026/27\
+ nJornada 14\nFecha base de jornada\; hora pendiente de confirmación por R
+ FAF
+URL:https://www.rfaf.es/pnfg/NPcd/NFG_VisCalendario_Vis?cod_primaria=100012
+ 0&codcompeticion=48909282&codgrupo=48909312&codtemporada=22&CDetalle=1
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:algeciras-cadete-b-2026-27-jornada-15@calendario-algeciras
+DTSTAMP:20260914T200844Z
+LAST-MODIFIED:20260914T200844Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:C.D. ESTRELLA PORTUENSE F.C. - Algeciras CF Cadete B
+LOCATION:Puerto De Santa María (El) - EL JUNCAL CAMPO MPAL (F11-F7) (A)
+DESCRIPTION:2ª Andaluza Cadete (Cádiz) - Grupo único\nTemporada 2026/27\
+ nJornada 15\nFecha base de jornada\; hora pendiente de confirmación por R
+ FAF
+URL:https://www.rfaf.es/pnfg/NPcd/NFG_VisCalendario_Vis?cod_primaria=100012
+ 0&codcompeticion=48909282&codgrupo=48909312&codtemporada=22&CDetalle=1
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:algeciras-cadete-b-2026-27-jornada-16@calendario-algeciras
+DTSTAMP:20260914T200844Z
+LAST-MODIFIED:20260914T200844Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:MONITORES FUTBOL DE ALGECIRAS - Algeciras CF Cadete B
+LOCATION:Algeciras - LA MENACHA ANTONIO OCAÑA(F11-F7\,1) (A)
+DESCRIPTION:2ª Andaluza Cadete (Cádiz) - Grupo único\nTemporada 2026/27\
+ nJornada 16\nFecha base de jornada\; hora pendiente de confirmación por R
+ FAF
+URL:https://www.rfaf.es/pnfg/NPcd/NFG_VisCalendario_Vis?cod_primaria=100012
+ 0&codcompeticion=48909282&codgrupo=48909312&codtemporada=22&CDetalle=1
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:algeciras-cadete-b-2026-27-jornada-17@calendario-algeciras
+DTSTAMP:20260914T200844Z
+LAST-MODIFIED:20260914T200844Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:Algeciras CF Cadete B - XEREZ DEPORTIVO F.C.
+LOCATION:Algeciras - Juan Gadiaga Pastores (F11) (A)
+DESCRIPTION:2ª Andaluza Cadete (Cádiz) - Grupo único\nTemporada 2026/27\
+ nJornada 17\nFecha base de jornada\; hora pendiente de confirmación por R
+ FAF
+URL:https://www.rfaf.es/pnfg/NPcd/NFG_VisCalendario_Vis?cod_primaria=100012
+ 0&codcompeticion=48909282&codgrupo=48909312&codtemporada=22&CDetalle=1
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:algeciras-cadete-b-2026-27-jornada-18@calendario-algeciras
+DTSTAMP:20260914T200844Z
+LAST-MODIFIED:20260914T200844Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:A.D. LOS CORTIJILLOS - Algeciras CF Cadete B
+LOCATION:Barrios (Los) - ANTONIO GAVIRA - LOS CORTIJILLOS (F11-F7) (A)
+DESCRIPTION:2ª Andaluza Cadete (Cádiz) - Grupo único\nTemporada 2026/27\
+ nJornada 18\nFecha base de jornada\; hora pendiente de confirmación por R
+ FAF
+URL:https://www.rfaf.es/pnfg/NPcd/NFG_VisCalendario_Vis?cod_primaria=100012
+ 0&codcompeticion=48909282&codgrupo=48909312&codtemporada=22&CDetalle=1
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:algeciras-cadete-b-2026-27-jornada-19@calendario-algeciras
+DTSTAMP:20260914T200844Z
+LAST-MODIFIED:20260914T200844Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:Algeciras CF Cadete B - TRASMALLO F.C. C.D.
+LOCATION:Algeciras - Juan Gadiaga Pastores (F11) (A)
+DESCRIPTION:2ª Andaluza Cadete (Cádiz) - Grupo único\nTemporada 2026/27\
+ nJornada 19\nFecha base de jornada\; hora pendiente de confirmación por R
+ FAF
+URL:https://www.rfaf.es/pnfg/NPcd/NFG_VisCalendario_Vis?cod_primaria=100012
+ 0&codcompeticion=48909282&codgrupo=48909312&codtemporada=22&CDetalle=1
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:algeciras-cadete-b-2026-27-jornada-20@calendario-algeciras
+DTSTAMP:20260914T200844Z
+LAST-MODIFIED:20260914T200844Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:C.F. SAN JOSE OBRERO - Algeciras CF Cadete B
+LOCATION:Jerez De La Frontera - JUAN SIMON (F11\, F7) (A)
+DESCRIPTION:2ª Andaluza Cadete (Cádiz) - Grupo único\nTemporada 2026/27\
+ nJornada 20\nFecha base de jornada\; hora pendiente de confirmación por R
+ FAF
+URL:https://www.rfaf.es/pnfg/NPcd/NFG_VisCalendario_Vis?cod_primaria=100012
+ 0&codcompeticion=48909282&codgrupo=48909312&codtemporada=22&CDetalle=1
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:algeciras-cadete-b-2026-27-jornada-21@calendario-algeciras
+DTSTAMP:20260914T200844Z
+LAST-MODIFIED:20260914T200844Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:Algeciras CF Cadete B - C.D. LA SALLE
+LOCATION:Algeciras - Juan Gadiaga Pastores (F11) (A)
+DESCRIPTION:2ª Andaluza Cadete (Cádiz) - Grupo único\nTemporada 2026/27\
+ nJornada 21\nFecha base de jornada\; hora pendiente de confirmación por R
+ FAF
+URL:https://www.rfaf.es/pnfg/NPcd/NFG_VisCalendario_Vis?cod_primaria=100012
+ 0&codcompeticion=48909282&codgrupo=48909312&codtemporada=22&CDetalle=1
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:algeciras-cadete-b-2026-27-jornada-22@calendario-algeciras
+DTSTAMP:20260914T200844Z
+LAST-MODIFIED:20260914T200844Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:CD ATLETICO PASTORES ALGECIRAS - Algeciras CF Cadete B
+LOCATION:Algeciras - LA MENACHA JULIO CABELLO (F-7) (A)
+DESCRIPTION:2ª Andaluza Cadete (Cádiz) - Grupo único\nTemporada 2026/27\
+ nJornada 22\nFecha base de jornada\; hora pendiente de confirmación por R
+ FAF
+URL:https://www.rfaf.es/pnfg/NPcd/NFG_VisCalendario_Vis?cod_primaria=100012
+ 0&codcompeticion=48909282&codgrupo=48909312&codtemporada=22&CDetalle=1
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:algeciras-cadete-b-2026-27-jornada-23@calendario-algeciras
+DTSTAMP:20260914T200844Z
+LAST-MODIFIED:20260914T200844Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:Algeciras CF Cadete B - ARCOS C.F.
+LOCATION:Algeciras - Juan Gadiaga Pastores (F11) (A)
+DESCRIPTION:2ª Andaluza Cadete (Cádiz) - Grupo único\nTemporada 2026/27\
+ nJornada 23\nFecha base de jornada\; hora pendiente de confirmación por R
+ FAF
+URL:https://www.rfaf.es/pnfg/NPcd/NFG_VisCalendario_Vis?cod_primaria=100012
+ 0&codcompeticion=48909282&codgrupo=48909312&codtemporada=22&CDetalle=1
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:algeciras-cadete-b-2026-27-jornada-24@calendario-algeciras
+DTSTAMP:20260914T200844Z
+LAST-MODIFIED:20260914T200844Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:ATLETICO ZABAL - Algeciras CF Cadete B
+LOCATION:La Línea de La Concepción - VIRGEN DEL CARMEN (LA LINEA) (A)
+DESCRIPTION:2ª Andaluza Cadete (Cádiz) - Grupo único\nTemporada 2026/27\
+ nJornada 24\nFecha base de jornada\; hora pendiente de confirmación por R
+ FAF
+URL:https://www.rfaf.es/pnfg/NPcd/NFG_VisCalendario_Vis?cod_primaria=100012
+ 0&codcompeticion=48909282&codgrupo=48909312&codtemporada=22&CDetalle=1
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:algeciras-cadete-b-2026-27-jornada-25@calendario-algeciras
+DTSTAMP:20260914T200844Z
+LAST-MODIFIED:20260914T200844Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:Algeciras CF Cadete B - C.D. CADISTA DE LA ISLA
+LOCATION:Algeciras - Juan Gadiaga Pastores (F11) (A)
+DESCRIPTION:2ª Andaluza Cadete (Cádiz) - Grupo único\nTemporada 2026/27\
+ nJornada 25\nFecha base de jornada\; hora pendiente de confirmación por R
+ FAF
+URL:https://www.rfaf.es/pnfg/NPcd/NFG_VisCalendario_Vis?cod_primaria=100012
+ 0&codcompeticion=48909282&codgrupo=48909312&codtemporada=22&CDetalle=1
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:algeciras-cadete-b-2026-27-jornada-26@calendario-algeciras
+DTSTAMP:20260914T200844Z
+LAST-MODIFIED:20260914T200844Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:Algeciras CF Cadete B - C.D. SAN FERNANDO 1940
+LOCATION:Algeciras - Juan Gadiaga Pastores (F11) (A)
+DESCRIPTION:2ª Andaluza Cadete (Cádiz) - Grupo único\nTemporada 2026/27\
+ nJornada 26\nFecha base de jornada\; hora pendiente de confirmación por R
+ FAF
+URL:https://www.rfaf.es/pnfg/NPcd/NFG_VisCalendario_Vis?cod_primaria=100012
+ 0&codcompeticion=48909282&codgrupo=48909312&codtemporada=22&CDetalle=1
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:algeciras-cadete-b-2026-27-jornada-27@calendario-algeciras
+DTSTAMP:20260914T200844Z
+LAST-MODIFIED:20260914T200844Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:A.D. MARIANISTAS C.D. - Algeciras CF Cadete B
+LOCATION:Jerez De La Frontera - SANTA FE (A)
+DESCRIPTION:2ª Andaluza Cadete (Cádiz) - Grupo único\nTemporada 2026/27\
+ nJornada 27\nFecha base de jornada\; hora pendiente de confirmación por R
+ FAF
+URL:https://www.rfaf.es/pnfg/NPcd/NFG_VisCalendario_Vis?cod_primaria=100012
+ 0&codcompeticion=48909282&codgrupo=48909312&codtemporada=22&CDetalle=1
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:algeciras-cadete-b-2026-27-jornada-28@calendario-algeciras
+DTSTAMP:20260914T200844Z
+LAST-MODIFIED:20260914T200844Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:Algeciras CF Cadete B - ATCO. SANLUQUEÑO C.F.
+LOCATION:Algeciras - Juan Gadiaga Pastores (F11) (A)
+DESCRIPTION:2ª Andaluza Cadete (Cádiz) - Grupo único\nTemporada 2026/27\
+ nJornada 28\nFecha base de jornada\; hora pendiente de confirmación por R
+ FAF
+URL:https://www.rfaf.es/pnfg/NPcd/NFG_VisCalendario_Vis?cod_primaria=100012
+ 0&codcompeticion=48909282&codgrupo=48909312&codtemporada=22&CDetalle=1
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:algeciras-cadete-b-2026-27-jornada-29@calendario-algeciras
+DTSTAMP:20260914T200844Z
+LAST-MODIFIED:20260914T200844Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:CHICLANA C.F. - Algeciras CF Cadete B
+LOCATION:Chiclana De La Frontera - HUERTA MATA (A)
+DESCRIPTION:2ª Andaluza Cadete (Cádiz) - Grupo único\nTemporada 2026/27\
+ nJornada 29\nFecha base de jornada\; hora pendiente de confirmación por R
+ FAF
+URL:https://www.rfaf.es/pnfg/NPcd/NFG_VisCalendario_Vis?cod_primaria=100012
+ 0&codcompeticion=48909282&codgrupo=48909312&codtemporada=22&CDetalle=1
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:algeciras-cadete-b-2026-27-jornada-30@calendario-algeciras
+DTSTAMP:20260914T200844Z
+LAST-MODIFIED:20260914T200844Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+SUMMARY:Algeciras CF Cadete B - C.D. ESTRELLA PORTUENSE F.C.
+LOCATION:Algeciras - Juan Gadiaga Pastores (F11) (A)
+DESCRIPTION:2ª Andaluza Cadete (Cádiz) - Grupo único\nTemporada 2026/27\
+ nJornada 30\nFecha base de jornada\; hora pendiente de confirmación por R
+ FAF
+URL:https://www.rfaf.es/pnfg/NPcd/NFG_VisCalendario_Vis?cod_primaria=100012
+ 0&codcompeticion=48909282&codgrupo=48909312&codtemporada=22&CDetalle=1
+STATUS:TENTATIVE
+END:VEVENT
+END:VCALENDAR
