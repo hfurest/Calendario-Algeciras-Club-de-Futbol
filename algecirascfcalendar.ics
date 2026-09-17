@@ -40,15 +40,19 @@ LAST-MODIFIED:20260914T195030Z
 END:VEVENT
 BEGIN:VEVENT
 UID:algeciras-cf-2026-27-jornada-4@calendario-algeciras
-DTSTAMP:20260914T195030Z
-DTSTART;TZID=Europe/Madrid:20260920T120000
-DTEND;TZID=Europe/Madrid:20260920T140000
+DTSTAMP:20260917T123644Z
 SUMMARY:Algeciras CF - Águilas FC
 LOCATION:Estadio Nuevo Mirador\, Algeciras
-DESCRIPTION:Primera Federación - Grupo 2\\nJornada 4\\nHorario oficialmente confirmado
+DESCRIPTION:Primera Federación - Grupo 2\nJornada 4\nHorario oficialmente 
+ confirmado (RFEF)
 STATUS:CONFIRMED
-SEQUENCE:1
-LAST-MODIFIED:20260914T195030Z
+SEQUENCE:2
+LAST-MODIFIED:20260917T123644Z
+DTSTART;TZID=Europe/Madrid:20260920T160000
+DTEND;TZID=Europe/Madrid:20260920T180000
+URL:https://marcadores.rfef.es/pnfg/NPcd/NFG_VisCalendario_Vis?cod_primaria
+ =1000120&codgrupo=33836090&codcompeticion=33836088&codtemporada=22&CodJorn
+ ada=&CDetalle=1
 END:VEVENT
 BEGIN:VEVENT
 UID:algeciras-cf-2026-27-jornada-5@calendario-algeciras

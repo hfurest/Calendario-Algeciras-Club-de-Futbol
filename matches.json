@@ -35,7 +35,9 @@
       "date": "2026-09-20",
       "home": "Algeciras CF",
       "away": "Águilas FC",
-      "time": "12:00"
+      "time": "16:00",
+      "source": "RFEF",
+      "source_url": "https://marcadores.rfef.es/pnfg/NPcd/NFG_VisCalendario_Vis?cod_primaria=1000120&codgrupo=33836090&codcompeticion=33836088&codtemporada=22&CodJornada=&CDetalle=1"
     },
     {
       "jornada": 5,
