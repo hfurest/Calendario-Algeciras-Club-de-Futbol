@@ -62,10 +62,12 @@
     },
     {
       "jornada": 8,
-      "date": "2026-10-18",
+      "date": "2026-10-17",
       "home": "Algeciras CF",
       "away": "Hércules de Alicante CF",
-      "time": null
+      "time": "21:00",
+      "source": "RFEF",
+      "source_url": "https://marcadores.rfef.es/pnfg/NPcd/NFG_VisCalendario_Vis?cod_primaria=1000120&codgrupo=33836090&codcompeticion=33836088&codtemporada=22&CodJornada=&CDetalle=1"
     },
     {
       "jornada": 9,

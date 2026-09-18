@@ -92,13 +92,19 @@ LAST-MODIFIED:20260914T195030Z
 END:VEVENT
 BEGIN:VEVENT
 UID:algeciras-cf-2026-27-jornada-8@calendario-algeciras
-DTSTAMP:20260824T080648Z
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261019
+DTSTAMP:20260918T121440Z
 SUMMARY:Algeciras CF - Hércules de Alicante CF
 LOCATION:Estadio Nuevo Mirador\, Algeciras
-DESCRIPTION:Primera Federación - Grupo 2\\nJornada 8\\nHora pendiente de confirmación oficial
+DESCRIPTION:Primera Federación - Grupo 2\nJornada 8\nHorario oficialmente 
+ confirmado (RFEF)
 STATUS:CONFIRMED
+DTSTART;TZID=Europe/Madrid:20261017T210000
+DTEND;TZID=Europe/Madrid:20261017T230000
+LAST-MODIFIED:20260918T121440Z
+SEQUENCE:1
+URL:https://marcadores.rfef.es/pnfg/NPcd/NFG_VisCalendario_Vis?cod_primaria
+ =1000120&codgrupo=33836090&codcompeticion=33836088&codtemporada=22&CodJorn
+ ada=&CDetalle=1
 END:VEVENT
 BEGIN:VEVENT
 UID:algeciras-cf-2026-27-jornada-9@calendario-algeciras
