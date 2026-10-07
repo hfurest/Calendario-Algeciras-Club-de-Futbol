@@ -80,10 +80,12 @@
     },
     {
       "jornada": 10,
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "home": "Real Jaén CF",
       "away": "Algeciras CF",
-      "time": null
+      "time": "18:15",
+      "source": "RFEF",
+      "source_url": "https://marcadores.rfef.es/pnfg/NPcd/NFG_VisCalendario_Vis?cod_primaria=1000120&codgrupo=33836090&codcompeticion=33836088&codtemporada=22&CodJornada=&CDetalle=1"
     },
     {
       "jornada": 11,

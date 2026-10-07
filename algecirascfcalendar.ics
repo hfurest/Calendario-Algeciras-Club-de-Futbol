@@ -124,13 +124,19 @@ URL:https://marcadores.rfef.es/pnfg/NPcd/NFG_VisCalendario_Vis?cod_primaria
 END:VEVENT
 BEGIN:VEVENT
 UID:algeciras-cf-2026-27-jornada-10@calendario-algeciras
-DTSTAMP:20260824T080648Z
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
+DTSTAMP:20261007T143232Z
 SUMMARY:Real Jaén CF - Algeciras CF
 LOCATION:Estadio por confirmar
-DESCRIPTION:Primera Federación - Grupo 2\\nJornada 10\\nHora pendiente de confirmación oficial
+DESCRIPTION:Primera Federación - Grupo 2\nJornada 10\nHorario oficialmente
+  confirmado (RFEF)
 STATUS:CONFIRMED
+DTSTART;TZID=Europe/Madrid:20261102T181500
+DTEND;TZID=Europe/Madrid:20261102T201500
+LAST-MODIFIED:20261007T143232Z
+SEQUENCE:1
+URL:https://marcadores.rfef.es/pnfg/NPcd/NFG_VisCalendario_Vis?cod_primaria
+ =1000120&codgrupo=33836090&codcompeticion=33836088&codtemporada=22&CodJorn
+ ada=&CDetalle=1
 END:VEVENT
 BEGIN:VEVENT
 UID:algeciras-cf-2026-27-jornada-11@calendario-algeciras
