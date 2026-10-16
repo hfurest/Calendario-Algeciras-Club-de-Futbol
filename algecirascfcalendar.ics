@@ -140,13 +140,19 @@ URL:https://marcadores.rfef.es/pnfg/NPcd/NFG_VisCalendario_Vis?cod_primaria
 END:VEVENT
 BEGIN:VEVENT
 UID:algeciras-cf-2026-27-jornada-11@calendario-algeciras
-DTSTAMP:20260824T080648Z
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
+DTSTAMP:20261016T122749Z
 SUMMARY:Real Murcia CF - Algeciras CF
 LOCATION:Estadio por confirmar
-DESCRIPTION:Primera Federación - Grupo 2\\nJornada 11\\nHora pendiente de confirmación oficial
+DESCRIPTION:Primera Federación - Grupo 2\nJornada 11\nHorario oficialmente
+  confirmado (RFEF)
 STATUS:CONFIRMED
+DTSTART;TZID=Europe/Madrid:20261108T203000
+DTEND;TZID=Europe/Madrid:20261108T223000
+LAST-MODIFIED:20261016T122749Z
+SEQUENCE:1
+URL:https://marcadores.rfef.es/pnfg/NPcd/NFG_VisCalendario_Vis?cod_primaria
+ =1000120&codgrupo=33836090&codcompeticion=33836088&codtemporada=22&CodJorn
+ ada=&CDetalle=1
 END:VEVENT
 BEGIN:VEVENT
 UID:algeciras-cf-2026-27-jornada-12@calendario-algeciras
