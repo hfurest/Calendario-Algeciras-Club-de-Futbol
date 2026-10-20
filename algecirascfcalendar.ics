@@ -156,13 +156,19 @@ URL:https://marcadores.rfef.es/pnfg/NPcd/NFG_VisCalendario_Vis?cod_primaria
 END:VEVENT
 BEGIN:VEVENT
 UID:algeciras-cf-2026-27-jornada-12@calendario-algeciras
-DTSTAMP:20260824T080648Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
+DTSTAMP:20261020T124441Z
 SUMMARY:Algeciras CF - Antequera CF
 LOCATION:Estadio Nuevo Mirador\, Algeciras
-DESCRIPTION:Primera Federación - Grupo 2\\nJornada 12\\nHora pendiente de confirmación oficial
+DESCRIPTION:Primera Federación - Grupo 2\nJornada 12\nHorario oficialmente
+  confirmado (RFEF)
 STATUS:CONFIRMED
+DTSTART;TZID=Europe/Madrid:20261115T163000
+DTEND;TZID=Europe/Madrid:20261115T183000
+LAST-MODIFIED:20261020T124441Z
+SEQUENCE:1
+URL:https://marcadores.rfef.es/pnfg/NPcd/NFG_VisCalendario_Vis?cod_primaria
+ =1000120&codgrupo=33836090&codcompeticion=33836088&codtemporada=22&CodJorn
+ ada=&CDetalle=1
 END:VEVENT
 BEGIN:VEVENT
 UID:algeciras-cf-2026-27-jornada-13@calendario-algeciras
