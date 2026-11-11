@@ -188,13 +188,19 @@ URL:https://marcadores.rfef.es/pnfg/NPcd/NFG_VisCalendario_Vis?cod_primaria
 END:VEVENT
 BEGIN:VEVENT
 UID:algeciras-cf-2026-27-jornada-14@calendario-algeciras
-DTSTAMP:20260824T080648Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
+DTSTAMP:20261111T151535Z
 SUMMARY:Algeciras CF - SD Huesca
 LOCATION:Estadio Nuevo Mirador\, Algeciras
-DESCRIPTION:Primera Federación - Grupo 2\\nJornada 14\\nHora pendiente de confirmación oficial
+DESCRIPTION:Primera Federación - Grupo 2\nJornada 14\nHorario oficialmente
+  confirmado (RFEF)
 STATUS:CONFIRMED
+DTSTART;TZID=Europe/Madrid:20261128T163000
+DTEND;TZID=Europe/Madrid:20261128T183000
+LAST-MODIFIED:20261111T151535Z
+SEQUENCE:1
+URL:https://marcadores.rfef.es/pnfg/NPcd/NFG_VisCalendario_Vis?cod_primaria
+ =1000120&codgrupo=33836090&codcompeticion=33836088&codtemporada=22&CodJorn
+ ada=&CDetalle=1
 END:VEVENT
 BEGIN:VEVENT
 UID:algeciras-cf-2026-27-jornada-15@calendario-algeciras
