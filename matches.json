@@ -181,10 +181,12 @@
     },
     {
       "jornada": 23,
-      "date": "2027-02-07",
+      "date": "2027-02-06",
       "home": "Algeciras CF",
       "away": "CE Europa",
-      "time": null
+      "time": null,
+      "source": "AS",
+      "source_url": "https://as.com/resultados/futbol/primera_rfef/2026_2027/jornada/grupos_a_23/"
     },
     {
       "jornada": 24,
