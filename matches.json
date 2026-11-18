@@ -125,10 +125,12 @@
     },
     {
       "jornada": 15,
-      "date": "2026-12-06",
+      "date": "2026-12-05",
       "home": "UE Sant Andreu",
       "away": "Algeciras CF",
-      "time": null
+      "time": "18:45",
+      "source": "RFEF",
+      "source_url": "https://marcadores.rfef.es/pnfg/NPcd/NFG_VisCalendario_Vis?cod_primaria=1000120&codgrupo=33836090&codcompeticion=33836088&codtemporada=22&CodJornada=&CDetalle=1"
     },
     {
       "jornada": 16,
@@ -181,12 +183,12 @@
     },
     {
       "jornada": 23,
-      "date": "2027-02-06",
+      "date": "2027-02-07",
       "home": "Algeciras CF",
       "away": "CE Europa",
       "time": null,
-      "source": "AS",
-      "source_url": "https://as.com/resultados/futbol/primera_rfef/2026_2027/jornada/grupos_a_23/"
+      "source": "RFEF",
+      "source_url": "https://marcadores.rfef.es/pnfg/NPcd/NFG_VisCalendario_Vis?cod_primaria=1000120&codgrupo=33836090&codcompeticion=33836088&codtemporada=22&CodJornada=&CDetalle=1"
     },
     {
       "jornada": 24,
