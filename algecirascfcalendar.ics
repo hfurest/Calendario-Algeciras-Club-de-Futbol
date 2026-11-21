@@ -290,19 +290,18 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:algeciras-cf-2026-27-jornada-23@calendario-algeciras
-DTSTAMP:20261118T162837Z
+DTSTAMP:20261121T152443Z
 SUMMARY:Algeciras CF - CE Europa
 LOCATION:Estadio Nuevo Mirador\, Algeciras
 DESCRIPTION:Primera Federación - Grupo 2\nJornada 23\nHora pendiente de co
  nfirmación
 STATUS:CONFIRMED
-LAST-MODIFIED:20261118T162837Z
-SEQUENCE:2
-URL:https://marcadores.rfef.es/pnfg/NPcd/NFG_VisCalendario_Vis?cod_primaria
- =1000120&codgrupo=33836090&codcompeticion=33836088&codtemporada=22&CodJorn
- ada=&CDetalle=1
-DTSTART;VALUE=DATE:20270207
-DTEND;VALUE=DATE:20270208
+LAST-MODIFIED:20261121T152443Z
+SEQUENCE:3
+URL:https://as.com/resultados/futbol/primera_rfef/2026_2027/jornada/grupos_
+ a_23/
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
 END:VEVENT
 BEGIN:VEVENT
 UID:algeciras-cf-2026-27-jornada-24@calendario-algeciras
